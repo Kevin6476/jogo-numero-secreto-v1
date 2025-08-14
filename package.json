@@ -1,0 +1,15 @@
+{
+  "name": "logica-js-projeto_inicial",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "browser-sync start --server --files 'index.html, **/*.html, css/**/*.css, js/**/*.js'"
+  },
+  "keywords": [],
+  "author": "Kevin Picoli Silveira",
+  "license": "ISC",
+  "description": "Projeto inicial do curso de Logica de Programacao com JavaScript do Alura Cursos",
+  "devDependencies": {
+    "browser-sync": "^3.0.4"
+  }
+}
